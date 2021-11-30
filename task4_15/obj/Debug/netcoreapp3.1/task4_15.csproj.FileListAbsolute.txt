@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\task4_15\obj\Debug\netcoreapp3.1\task4_15.csprojAssemblyReference.cache
+C:\Users\User\source\repos\task4_15\obj\Debug\netcoreapp3.1\task4_15.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\task4_15\obj\Debug\netcoreapp3.1\task4_15.AssemblyInfo.cs
+C:\Users\User\source\repos\task4_15\bin\Debug\netcoreapp3.1\task4_15.exe
+C:\Users\User\source\repos\task4_15\bin\Debug\netcoreapp3.1\task4_15.deps.json
+C:\Users\User\source\repos\task4_15\bin\Debug\netcoreapp3.1\task4_15.runtimeconfig.json
+C:\Users\User\source\repos\task4_15\bin\Debug\netcoreapp3.1\task4_15.runtimeconfig.dev.json
+C:\Users\User\source\repos\task4_15\bin\Debug\netcoreapp3.1\task4_15.dll
+C:\Users\User\source\repos\task4_15\bin\Debug\netcoreapp3.1\task4_15.pdb
+C:\Users\User\source\repos\task4_15\obj\Debug\netcoreapp3.1\task4_15.dll
+C:\Users\User\source\repos\task4_15\obj\Debug\netcoreapp3.1\task4_15.pdb
